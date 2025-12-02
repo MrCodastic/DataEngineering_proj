@@ -1,0 +1,18 @@
+# Data Generation & Database
+faker
+psycopg2-binary
+kafka-python
+
+# Data Processing (Spark)
+# CRITICAL: Must be 3.5.0 to match the Kafka JARs we used
+pyspark==3.5.0
+
+# Orchestration
+# Note: Python 3.12 requires Airflow 2.9+
+apache-airflow>=2.9.0
+
+# Visualization & Reporting
+streamlit
+pandas
+pyarrow
+duckdb
