@@ -1,4 +1,4 @@
-# BankingDataEngineering# 🏙️ Urban Mobility Data Platform
+# DataEngineering# 🏙️ Urban Mobility Data Platform
 
 ## 📖 Project Overview
 An End-to-End Data Engineering project simulating a Smart City traffic system. This platform ingests real-time GPS data from vehicles (Streaming) and combines it with driver registration data (Batch) to identify speeding violations in real-time.
