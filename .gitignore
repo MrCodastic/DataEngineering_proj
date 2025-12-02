@@ -1,8 +1,8 @@
 
 # 1. Ignore the Data Lake (Heavy Parquet files)
 datalake/
-airflow/
-airflow_dags/
+#airflow/
+#airflow_dags/
 
 # 2. Ignore Python compilation files
 __pycache__/
